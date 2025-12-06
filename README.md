@@ -2,7 +2,7 @@
 
 ## MEDS Masters Student
 
-Personal Website: 
+Personal Website: awoo56709.github.io/
 
 <!--
 **Awoo56709/Awoo56709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
