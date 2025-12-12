@@ -1,8 +1,8 @@
-# Whats up, Im Joshua!
+j# Whats up, Im Joshua!
 
 ## MEDS Masters Student
 
-Personal Website: [Joshua Ferrer-Lozano](awoo56709.github.io)
+Personal Website: [Joshua Ferrer-Lozano](awoo56709.github.io/)
 
 <!--
 **Awoo56709/Awoo56709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
