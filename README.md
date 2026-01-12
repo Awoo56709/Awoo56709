@@ -1,4 +1,4 @@
-j# Whats up, Im Joshua!
+Whats up, Im Joshua!
 
 ## MEDS Masters Student
 
